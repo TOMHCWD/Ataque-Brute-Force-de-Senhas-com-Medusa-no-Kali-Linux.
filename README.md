@@ -24,7 +24,7 @@ O objetivo principal é executar um ataque de **Brute Force** contra o serviço 
 * Preparação do Kali Linux
 * Preparação do Metasploitable 2
 * Criação dos Wordlists
-* Execução do Ataque com Medusa
+* Documentação dos Testes.
 * Análise dos Resultados
 * Considerações Finais
 
